@@ -2,8 +2,9 @@ package com.ai.project.libui;
 
 import android.content.Context;
 import android.content.DialogInterface;
-import android.support.v7.app.AlertDialog;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AlertDialog;
 
 public class AiAlert {
     private Context context;

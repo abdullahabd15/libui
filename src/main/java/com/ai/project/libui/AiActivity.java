@@ -1,10 +1,10 @@
 package com.ai.project.libui;
 
-import android.app.Activity;
 import android.content.DialogInterface;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.inputmethod.InputMethodManager;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public abstract class AiActivity extends AppCompatActivity {
     private AiAlert alert;
